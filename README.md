@@ -43,13 +43,13 @@ To install chwin into your system:
 1. First clone the repository
 
 ```shell
-git clone <the repo>
+git clone git@github.com:mellowboyXD/CHWIN.git ~/CHWIN
 ```
 
 2. Then add the following to your .bashrc file
 
 ```shell
-alias chwin='<full path to the repo>/src/chwin.sh'
+alias chwin='~/CHWIN/src/chwin.sh'
 ```
 
 ----
